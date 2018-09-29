@@ -35,7 +35,7 @@ public class Servidor {
 			 
 			 
 		} catch (BindException e) {
-			System.out.println("Endereço em uso");
+			System.out.println("EndereÃ§o em uso");
 		} catch (Exception e) {
 			System.out.println("Erro: " + e);
 		}
