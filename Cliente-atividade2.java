@@ -24,7 +24,7 @@ public class Cliente {
 			
 		
 		} catch (ConnectException e) {
-			System.out.println("Não foi possível ao destino");
+			System.out.println("NÃ£o foi possÃ­vel ao destino");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
